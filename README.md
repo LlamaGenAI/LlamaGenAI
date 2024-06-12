@@ -2,7 +2,7 @@
   
 ## LlamaGenAI: Consistent Self-Attention for Long-Range Comic Generation 
 
-  [![GitHub](https://img.shields.io/github/stars/aregrid/ComicDiffusion?style=social)](https://github.com/aregrid/ComicDiffusion)
+  [![GitHub](https://img.shields.io/github/stars/LlamaGenAI/LlamaGenAI?style=social)](https://github.com/aregrid/ComicDiffusion)
   [![Twitter](https://img.shields.io/twitter/follow/llama_gen?style=social)](https://twitter.com/llama_gen)
   [![Discord](https://img.shields.io/discord/1190979134051074110?label=Join%20us%20on%20Discord&logo=Discord&style=social)](https://discord.gg/Jrsff8YFKw)
   [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCfuH6OsUcop2Y8lOHQtHIwA)](https://www.youtube.com/@LlamaGenAI)
